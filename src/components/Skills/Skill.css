@@ -1,0 +1,20 @@
+.s-h{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 2rem;
+}
+
+.s-info{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 00.5rem;
+    justify-content: center;      
+}
+    
+.s-i{
+    width: 75px;
+    height: 75px;
+    padding: 0.5rem;    
+}
